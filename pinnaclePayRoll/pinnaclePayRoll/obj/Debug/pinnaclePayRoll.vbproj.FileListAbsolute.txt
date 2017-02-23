@@ -1,0 +1,22 @@
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.exe.config
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.exe
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.pdb
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.xml
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.vbprojResolveAssemblyReference.cache
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.Form1.resources
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.Resources.resources
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.vbproj.GenerateResource.Cache
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.exe
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.xml
+P:\C++ PROGRAMS\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.pdb
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.exe.config
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.exe
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.xml
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.pdb
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.exe
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.pdb
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Debug\pinnaclePayRoll.xml
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.vbprojResolveAssemblyReference.cache
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.Form1.resources
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.Resources.resources
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Debug\pinnaclePayRoll.vbproj.GenerateResource.Cache

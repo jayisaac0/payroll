@@ -1,0 +1,11 @@
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Release\pinnaclePayRoll.exe.config
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Release\pinnaclePayRoll.exe
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Release\pinnaclePayRoll.pdb
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\bin\Release\pinnaclePayRoll.xml
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.Form1.resources
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.Resources.resources
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.vbproj.GenerateResource.Cache
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.exe
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.xml
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.pdb
+P:\VB\pinnaclePayRoll\pinnaclePayRoll\obj\Release\pinnaclePayRoll.vbprojResolveAssemblyReference.cache
